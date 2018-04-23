@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Prints number of days left until certificate for the specified domain name (and optionally port) will expire
+# Prints number of days left until certificate expiration for the specified domain name (and optionally port)
 #
 
 # print usage and exit
